@@ -1,0 +1,18 @@
+# Arquivos de compilação
+/bin/
+/target/
+
+# Logs
+*.log
+
+# Arquivos do Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos de IDEs e do sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db

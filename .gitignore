@@ -16,3 +16,6 @@
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Arquivo de configuração do Banco de Dados
+db.properties
